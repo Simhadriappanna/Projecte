@@ -80,7 +80,7 @@ a {
 a:hover, .s:hover, .j1:hover, .Z:hover {
   transform: scale(1.05);
   transition: transform 0.3s;
-  /* text-decoration: underline; */
+  
   cursor: pointer;
 }
 .container1 {
@@ -88,6 +88,7 @@ a:hover, .s:hover, .j1:hover, .Z:hover {
   justify-content: space-between;
   align-items: flex-start;
   gap: 40px;
+  padding: 20px;
 }
 
 .form-section {
