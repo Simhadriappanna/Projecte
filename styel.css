@@ -301,7 +301,7 @@ video {
 }
 
 .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8 {
-  width: 20vw;
+  width: 200px;
   height: 200px;
   background-size: cover;
   background-position: center;
@@ -606,6 +606,7 @@ video {
   width: 60%;
   max-width: 300px;
   margin: 10px 0;
+  /* margin-left: ; */
 }
 
 .d {
@@ -688,7 +689,7 @@ p {
 }
 .p{
   width: 200px;
- margin-left: 45vw;
+  margin-left: 500px;
   margin-bottom: 30px;
   border: 2px solid;
   padding: 5px;
